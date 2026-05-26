@@ -1,3 +1,3 @@
 # srdevs-demo
 This is my first Git repository.
-Author - Mohit Ahirwar
+Author - Mohit Ahirwar (Nowgong)
